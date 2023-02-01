@@ -1,0 +1,18 @@
+{
+  "name": "com.jasper.teamutillity",
+  "version": "1.0.0",
+  "displayName": "Zepeto Team Utillity",
+  "description": "Team Utility is a useful tool for collaborative development of Zepeto World.(We recommend Github for ZEPETO World collaboration.) ",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "zepeto",
+    "zepetoWorld",
+    "zepetoBuildIt"
+  ],
+  "author": {
+    "name":"Jasper",
+    "email": "JasperUngEee@gmail.com",
+    "url": "https://github.com/JasperGame"
+  }
+}
